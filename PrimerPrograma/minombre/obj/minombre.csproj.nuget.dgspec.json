@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Brayan Torrwa\\Desktop\\PrimerPrograma\\minombre\\minombre.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Brayan Torrwa\\Desktop\\PrimerPrograma\\minombre\\minombre.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Brayan Torrwa\\Desktop\\PrimerPrograma\\minombre\\minombre.csproj",
+        "projectName": "minombre",
+        "projectPath": "C:\\Users\\Brayan Torrwa\\Desktop\\PrimerPrograma\\minombre\\minombre.csproj",
+        "packagesPath": "C:\\Users\\Brayan Torrwa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Brayan Torrwa\\Desktop\\PrimerPrograma\\minombre\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Brayan Torrwa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Brayan Torrwa\\Desktop\\PrimerPrograma\\sumaresta\\sumaresta.csproj": {
+                "projectPath": "C:\\Users\\Brayan Torrwa\\Desktop\\PrimerPrograma\\sumaresta\\sumaresta.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Brayan Torrwa\\Desktop\\PrimerPrograma\\sumaresta\\sumaresta.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Brayan Torrwa\\Desktop\\PrimerPrograma\\sumaresta\\sumaresta.csproj",
+        "projectName": "sumaresta",
+        "projectPath": "C:\\Users\\Brayan Torrwa\\Desktop\\PrimerPrograma\\sumaresta\\sumaresta.csproj",
+        "packagesPath": "C:\\Users\\Brayan Torrwa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Brayan Torrwa\\Desktop\\PrimerPrograma\\sumaresta\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Brayan Torrwa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

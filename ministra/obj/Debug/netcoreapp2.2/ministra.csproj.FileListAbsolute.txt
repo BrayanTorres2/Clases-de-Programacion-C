@@ -1,0 +1,11 @@
+C:\Users\Brayan Torrwa\desktop\ministra\bin\Debug\netcoreapp2.2\ministra.deps.json
+C:\Users\Brayan Torrwa\desktop\ministra\bin\Debug\netcoreapp2.2\ministra.runtimeconfig.json
+C:\Users\Brayan Torrwa\desktop\ministra\bin\Debug\netcoreapp2.2\ministra.runtimeconfig.dev.json
+C:\Users\Brayan Torrwa\desktop\ministra\bin\Debug\netcoreapp2.2\ministra.dll
+C:\Users\Brayan Torrwa\desktop\ministra\bin\Debug\netcoreapp2.2\ministra.pdb
+C:\Users\Brayan Torrwa\desktop\ministra\obj\Debug\netcoreapp2.2\ministra.csprojAssemblyReference.cache
+C:\Users\Brayan Torrwa\desktop\ministra\obj\Debug\netcoreapp2.2\ministra.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Torrwa\desktop\ministra\obj\Debug\netcoreapp2.2\ministra.AssemblyInfoInputs.cache
+C:\Users\Brayan Torrwa\desktop\ministra\obj\Debug\netcoreapp2.2\ministra.AssemblyInfo.cs
+C:\Users\Brayan Torrwa\desktop\ministra\obj\Debug\netcoreapp2.2\ministra.dll
+C:\Users\Brayan Torrwa\desktop\ministra\obj\Debug\netcoreapp2.2\ministra.pdb

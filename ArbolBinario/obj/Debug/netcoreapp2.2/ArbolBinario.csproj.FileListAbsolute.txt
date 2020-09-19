@@ -1,0 +1,11 @@
+C:\Users\Brayan Torrwa\Desktop\ArbolBinario\bin\Debug\netcoreapp2.2\ArbolBinario.deps.json
+C:\Users\Brayan Torrwa\Desktop\ArbolBinario\bin\Debug\netcoreapp2.2\ArbolBinario.runtimeconfig.json
+C:\Users\Brayan Torrwa\Desktop\ArbolBinario\bin\Debug\netcoreapp2.2\ArbolBinario.runtimeconfig.dev.json
+C:\Users\Brayan Torrwa\Desktop\ArbolBinario\bin\Debug\netcoreapp2.2\ArbolBinario.dll
+C:\Users\Brayan Torrwa\Desktop\ArbolBinario\bin\Debug\netcoreapp2.2\ArbolBinario.pdb
+C:\Users\Brayan Torrwa\Desktop\ArbolBinario\obj\Debug\netcoreapp2.2\ArbolBinario.csprojAssemblyReference.cache
+C:\Users\Brayan Torrwa\Desktop\ArbolBinario\obj\Debug\netcoreapp2.2\ArbolBinario.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Torrwa\Desktop\ArbolBinario\obj\Debug\netcoreapp2.2\ArbolBinario.AssemblyInfoInputs.cache
+C:\Users\Brayan Torrwa\Desktop\ArbolBinario\obj\Debug\netcoreapp2.2\ArbolBinario.AssemblyInfo.cs
+C:\Users\Brayan Torrwa\Desktop\ArbolBinario\obj\Debug\netcoreapp2.2\ArbolBinario.dll
+C:\Users\Brayan Torrwa\Desktop\ArbolBinario\obj\Debug\netcoreapp2.2\ArbolBinario.pdb

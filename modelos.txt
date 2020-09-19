@@ -1,0 +1,76 @@
+dotnet ef dbcontext scaffold "Data Source=190.66.23.249;User ID=usuario1;Password=usuario1EAN;Initial Catalog=NORTHWIND;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" Microsoft.EntityFrameworkCore.SqlServer -o BackEnd\DAL\Modelos\Northwind -c "NorthwindContext" -t "Customers"
+EXEC  usp_ACtualizarCustomers1 "OKYS",'calle 45','colombia';
+
+SELECT * FROM Customers WITH(NOLOCK) WHERE customerid = 'OKYS'
+
+
+dotnet new sln
+dotnet sln Taller3-1.sln add Taller31AccesoDatos/Taller31AccesoDatos.csproj CustomerED/CustomerED.csproj
+dotnet add Taller31AccesoDatos/Taller31AccesoDatos.csproj reference CustomerED/CustomerED.csproj
+
+
+
+        public static void Main(string[] args)
+        {
+            Prueba_Insert();
+        }
+
+  
+        /// <summary>
+        /// Prueba insercion de un registro
+        /// </summary>
+        private static void Prueba_Insert() {
+            Customers cust = null;
+            cust = new Customers {
+                CustomerId = "OKYS",
+                CompanyName = "Brayan Stiven",
+                ContactName = "Torres Ovalle"
+            };
+            using(NorthwindContext dbctxt = new NorthwindContext()) {
+                dbctxt.Add<Customers>(cust);
+                dbctxt.SaveChanges();
+            }
+        }
+         private static void Prueba_Update(){
+             Customers cust = null;
+            cust = new Customers {
+                CustomerId = "OKYS",
+                CompanyName = "Brayan",
+                ContactName = "Torres",
+                ContactTitle= "programador"
+            };
+            using(NorthwindContext dbctxt = new NorthwindContext()) {
+                dbctxt.Update<Customers>(cust);
+                dbctxt.SaveChanges();
+            }
+
+        }
+        private static void Prueba_CallStoredProcedure_Update(){
+             using(NorthwindContext dbctxt = new NorthwindContext()) {
+                dbctxt.Database.ExecuteSqlCommand("usp_ACtualizarCustomers1 'OKYS','calle 49','colombia'");
+            
+            }
+
+        }
+/* 
+			   Nodo nodoAux =obtenerNodoxPosicion(posi);
+               Nodo nodoAux2=obtenerNodoxPosicion(posi-1);
+               nodoAux2.sgte=nodo;
+			   nodo.sgte = nodoAux;
+			   tamano++;
+               */ 
+               /* 
+               Nodo nodoAux = obtenerNodoxPosicion(posi - 1);
+			   nodo.sgte = nodoAux.sgte;
+			   nodoAux.sgte = nodo;
+			   tamano++;
+               */
+ /* 
+            int x=0;
+            if(!EstaVacia()) {
+                while(x<posi){
+                    nodoAux=nodoAux.sgte;
+                    x=x+1;
+                }
+            }
+            */

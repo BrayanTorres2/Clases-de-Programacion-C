@@ -1,0 +1,11 @@
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\sumaresta\bin\Debug\netcoreapp2.2\sumaresta.deps.json
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\sumaresta\bin\Debug\netcoreapp2.2\sumaresta.runtimeconfig.json
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\sumaresta\bin\Debug\netcoreapp2.2\sumaresta.runtimeconfig.dev.json
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\sumaresta\bin\Debug\netcoreapp2.2\sumaresta.dll
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\sumaresta\bin\Debug\netcoreapp2.2\sumaresta.pdb
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\sumaresta\obj\Debug\netcoreapp2.2\sumaresta.csprojAssemblyReference.cache
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\sumaresta\obj\Debug\netcoreapp2.2\sumaresta.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\sumaresta\obj\Debug\netcoreapp2.2\sumaresta.AssemblyInfoInputs.cache
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\sumaresta\obj\Debug\netcoreapp2.2\sumaresta.AssemblyInfo.cs
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\sumaresta\obj\Debug\netcoreapp2.2\sumaresta.dll
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\sumaresta\obj\Debug\netcoreapp2.2\sumaresta.pdb

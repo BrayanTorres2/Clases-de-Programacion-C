@@ -1,0 +1,14 @@
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\bin\Debug\netcoreapp2.2\proyecto1.deps.json
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\bin\Debug\netcoreapp2.2\proyecto1.runtimeconfig.json
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\bin\Debug\netcoreapp2.2\proyecto1.runtimeconfig.dev.json
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\bin\Debug\netcoreapp2.2\proyecto1.dll
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\bin\Debug\netcoreapp2.2\proyecto1.pdb
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\bin\Debug\netcoreapp2.2\proyecto2.dll
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\bin\Debug\netcoreapp2.2\proyecto2.pdb
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\obj\Debug\netcoreapp2.2\proyecto1.csprojAssemblyReference.cache
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\obj\Debug\netcoreapp2.2\proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\obj\Debug\netcoreapp2.2\proyecto1.AssemblyInfoInputs.cache
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\obj\Debug\netcoreapp2.2\proyecto1.AssemblyInfo.cs
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\obj\Debug\netcoreapp2.2\proyecto1.csproj.CopyComplete
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\obj\Debug\netcoreapp2.2\proyecto1.dll
+C:\Users\Brayan Torrwa\Desktop\Ocultamiento\proyecto1\obj\Debug\netcoreapp2.2\proyecto1.pdb

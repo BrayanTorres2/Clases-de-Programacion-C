@@ -1,0 +1,11 @@
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\minombre\bin\Debug\netcoreapp2.2\minombre.deps.json
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\minombre\bin\Debug\netcoreapp2.2\minombre.runtimeconfig.json
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\minombre\bin\Debug\netcoreapp2.2\minombre.runtimeconfig.dev.json
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\minombre\bin\Debug\netcoreapp2.2\minombre.dll
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\minombre\bin\Debug\netcoreapp2.2\minombre.pdb
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\minombre\obj\Debug\netcoreapp2.2\minombre.csprojAssemblyReference.cache
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\minombre\obj\Debug\netcoreapp2.2\minombre.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\minombre\obj\Debug\netcoreapp2.2\minombre.AssemblyInfoInputs.cache
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\minombre\obj\Debug\netcoreapp2.2\minombre.AssemblyInfo.cs
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\minombre\obj\Debug\netcoreapp2.2\minombre.dll
+C:\Users\Brayan Torrwa\Desktop\PrimerPrograma\minombre\obj\Debug\netcoreapp2.2\minombre.pdb

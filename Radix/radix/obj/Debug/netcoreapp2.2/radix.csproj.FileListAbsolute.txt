@@ -1,0 +1,11 @@
+C:\Users\Brayan Torrwa\Desktop\Radix\radix\bin\Debug\netcoreapp2.2\radix.deps.json
+C:\Users\Brayan Torrwa\Desktop\Radix\radix\bin\Debug\netcoreapp2.2\radix.runtimeconfig.json
+C:\Users\Brayan Torrwa\Desktop\Radix\radix\bin\Debug\netcoreapp2.2\radix.runtimeconfig.dev.json
+C:\Users\Brayan Torrwa\Desktop\Radix\radix\bin\Debug\netcoreapp2.2\radix.dll
+C:\Users\Brayan Torrwa\Desktop\Radix\radix\bin\Debug\netcoreapp2.2\radix.pdb
+C:\Users\Brayan Torrwa\Desktop\Radix\radix\obj\Debug\netcoreapp2.2\radix.csprojAssemblyReference.cache
+C:\Users\Brayan Torrwa\Desktop\Radix\radix\obj\Debug\netcoreapp2.2\radix.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Torrwa\Desktop\Radix\radix\obj\Debug\netcoreapp2.2\radix.AssemblyInfoInputs.cache
+C:\Users\Brayan Torrwa\Desktop\Radix\radix\obj\Debug\netcoreapp2.2\radix.AssemblyInfo.cs
+C:\Users\Brayan Torrwa\Desktop\Radix\radix\obj\Debug\netcoreapp2.2\radix.dll
+C:\Users\Brayan Torrwa\Desktop\Radix\radix\obj\Debug\netcoreapp2.2\radix.pdb
